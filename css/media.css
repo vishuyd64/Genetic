@@ -1,0 +1,376 @@
+@media screen and (max-width:1199px) {
+
+	.genetic_text {
+    padding: 44px 0 22px;
+	}
+	.genetic_text_col h3{
+		font-size: 38px;
+		line-height: 44px;
+	}
+	.save_btns a{
+		margin-top: 40px;
+	}
+	.genetic_test h3 {
+    font-size: 48px;
+    margin-top: 40px;
+	}
+	.dontwait h3 {
+    font-size: 36px;
+	}
+	.dontwait h4 {
+    font-size: 25px;
+    margin-top: 42px;
+        line-height: 25px;
+	}
+	.genetic_test-1 h3 {
+    font-size: 41px;
+    margin-top: 0;
+	}
+	.step_1 h3 {
+    font-size: 42px;
+	}
+	.reason_head h3 {
+    font-family: 'SourceSansProBold';
+    font-size: 40px;
+	}
+	.reason_col {
+    margin-top: 60px;
+}
+	.note_text h3 {
+    font-family: 'SourceSansProSemiBold';
+    font-size: 18px;
+    }
+.note_text {
+    padding: 40px 0;
+}
+.reason {
+    padding: 42px 0;
+}
+.pad_all {
+    padding: 42px 80px 42px 50px;
+}
+.cancer_text_h h3 {
+     margin-top: 0px; 
+}
+.health {
+    padding: 0px 0 42px 0;
+}
+
+
+}
+
+@media screen and (max-width:991px) {
+
+	.genetic_text_col h3 {
+    font-size: 29px;
+    line-height: 36px;
+	}
+	.genetic_test h3 {
+    font-size: 38px;
+	}
+	.lesli_lines p {
+    font-size: 19px;
+    margin-top: 22px;
+	}
+	.health {
+    padding: 0 0 42px 0;
+}
+.cancer_text_h h3 {
+     margin-top: 0px; 
+}
+.pad_all {
+    padding: 42px 50px;
+}
+	.dontwait h3 {
+    font-size: 33px;
+	}
+	.dontwait h4 {
+    font-size: 21px;
+	}
+	.cancer_text p {
+    font-size: 22px;
+	}
+	.cancer_head h3 {
+    font-size: 22px;
+	}
+	.genetic_test-1 h3 {
+    font-size: 34px;
+	}
+	.step_1 h3 {
+    font-size: 38px;
+	}
+	.step_1 p {
+    font-size: 19px;
+	}
+	.reason_head h3 {
+    font-size: 30px;
+	}
+	.reason_head p {
+    font-size: 19px;
+    margin-top: 20px;
+	}
+	.reason_col {
+    margin-top: 40px;
+	}
+	.cancer_text {
+    margin-top: 35px;
+	}
+	.note_text {
+    padding: 28px 0;
+}
+.reason {
+    padding: 40px 0;
+}
+.save_btns a {
+    padding: 14px 50px;
+}
+
+
+
+}
+
+
+@media screen and (max-width:767px) {
+
+	.gen_logo img{
+		width: 55%;
+	}
+	.genetic_text {
+    margin-top: 50px;    
+    padding: 44px 0 20px;
+}
+	/*.genetic_text{
+		text-align: center;
+	}*/
+	.liness {
+     margin-top: 0px; 
+}
+	.genetic_text_col h3 {
+    font-size: 29px;
+    line-height: 33px;
+	}
+	.genetic_test-1 h3 {
+     padding-bottom: 0px; 
+}
+	.genetic_text_col p {
+    margin-top: 12px;
+	}
+	.genetic_col_right img{
+		margin: 0 auto;
+	}
+	.genetic_text_col {
+     margin-top: 0px; 
+	}
+	.save_btns a {
+    margin-top: 27px;
+	}
+	.genetic_test h3 {
+    font-size: 28px;
+    margin-top: 10px;padding-bottom: 20px;
+	}
+	.save_btns a {
+    font-size: 19px;
+    padding: 11px 32px;
+	}
+	.pad_all {
+    padding: 22px;
+	}
+	.step_all {
+		text-align: center;
+		display: block;
+    padding: 20px 8px;
+}
+	.dontwait h3 {
+    font-size: 26px;
+	}
+	.health {
+    padding: 0px 0 30px 0;
+	}
+	.cancer_text p {
+    font-size: 20px;
+	}
+	.cancer_head h3 {
+    font-size: 20px;
+	}
+	.cancer_text_h h3 {
+     margin-top: 0px; 
+	}
+	.cancer_text {
+    margin-top: 20px;
+	}
+	/*.genetic_test h3 {
+    font-size: 24px;
+     margin-top: 0px; 
+	}*/
+	.step_1 h3 {
+    font-size: 34px;
+	}
+	.step_1_right img {
+     float: none; 
+    width: 50%;
+    margin-top: 10px;
+    margin: 0 auto;
+	}
+	.step_1_right {
+		margin-top: 25px;
+		    margin-bottom: 11px;
+	}
+	.step_3 {
+    padding-bottom: 30px;
+	}
+	.reason {
+    padding: 38px 0;
+	}
+	.reason_col {
+    margin-top: 22px;
+	}
+	.cnacer_img{
+		margin-top: 20px;
+	}
+	.dontwait h4 {
+    margin-top: 26px;
+	}
+	.note_text {
+    padding: 30px 0px;
+	}
+	.step_btn{
+		text-align: center;
+	}
+	.genetic_col_right{
+		margin-top: 20px;
+	}
+	.step_btn a {
+    border: 3px solid #fff;
+	}
+	.reason_head h3 {
+    font-size: 25px;
+	}	
+	.reason_head p {
+    font-size: 17px;
+    margin-top: 12px;
+	}
+	.genetic_test h3 {
+   
+    letter-spacing: -0.8px;
+}
+
+.note_text h3 {
+    line-height: 25px;
+}
+
+
+
+}
+
+@media screen and (max-width:560px) {
+	.genetic_col_right img {
+    margin: 20px auto 10px;
+}
+
+	.genetic_text_col h3 {
+    font-size: 26px;
+    line-height: 30px;
+	}
+	.save_btns a {
+    font-size: 17px;
+    padding: 8px 25px;
+	}
+	.genetic_col_right{
+		margin-top: 20px;
+	}
+	/*.genetic_test h3 {
+    font-size: 20px;
+	}*/
+	.cancer_head h3 {
+    font-size: 18px;
+	}
+	.genetic_test h3 {
+    font-size: 25px;
+}
+.pad_all {
+    padding: 30px 15px;
+}
+	.cancer_text p {
+    font-size: 18px;
+	}
+	
+	.genetic_test-1 h3 {
+    
+     padding-bottom: 8px; 
+	}
+	.step_1 h3 {
+    font-size: 30px;
+	}
+	.step_1 p {
+    margin-top: 12px;
+	}
+	.step_btn a {
+    border: 2px solid #fff;
+	}
+	.dontwait_text h3 {
+     padding: 0; 
+	}
+	.save_btns a {
+    margin-top: 20px;
+	}
+	.genetic_text {
+    padding: 30px 0 20px;
+    margin-top: 43px;
+	}
+	.step_all {
+    padding:15px 8px;
+}
+.note_text {
+    padding: 15px 0px;
+}
+
+
+
+}
+
+@media screen and (max-width:414px) {
+
+	.gen_logo img {
+    width: 75%;
+	}
+	.genetic_text_col h3 {
+    font-size: 24px;
+    line-height: 28px;
+}
+.genetic_test h3 {
+    font-size: 21px;
+}
+	.genetic_text_col p {
+    font-size: 15px;
+	}
+	.save_btns a {
+    font-size: 16px;
+    padding: 8px 22px;
+	}
+	.genetic_text {
+     padding: 33px 0 20px;
+	}
+	.dontwait h3 {
+    font-size: 22px;
+	}
+	.pad_all {
+     padding:30px 10px; 
+	}
+	.step_all{
+		padding: 20px 0;
+	}
+	.lesli_lines p {
+    font-size: 16px;
+    margin-top: 18px;
+	}
+
+
+
+}
+
+@media screen and (max-width:320px) {
+
+}
+
+
+
